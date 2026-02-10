@@ -8,7 +8,15 @@ This Power BI project analyzes Deskify’s office supply sales and operational p
 - Identify top-performing and underperforming products  
 - Evaluate customer segments and purchasing behavior  
 - Assess regional and category-level performance  
-- Support inventory planning and sales strategy optimization  
+- Support inventory planning and sales strategy optimization
+
+## Dashboard Preview
+
+### Product Performance
+![Product Performance](images/product.png)
+
+### Customer Insights
+![Customer Insights](images/customer.png)
 
 ## Dashboard Highlights
 - Sales and profit KPIs  
