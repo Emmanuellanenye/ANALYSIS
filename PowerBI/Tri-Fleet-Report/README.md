@@ -8,7 +8,10 @@ This Power BI dashboard analyzes Tri-Fleet operations to monitor performance acr
 - Monitor delivery/service volume and efficiency metrics  
 - Identify delays, bottlenecks, and high-impact operational drivers  
 - Compare performance by location/route/segment (where applicable)  
-- Support data-driven decisions for planning and resource allocation  
+- Support data-driven decisions for planning and resource allocation
+
+### Tri-Fleet Report
+![Tri-Fleet Report](images/tri-fleet-report.png)  
 
 ## Dashboard Highlights
 - KPI summary (operational performance at a glance)  
