@@ -9,6 +9,17 @@ This project analyzes Nanocove’s product performance and customer behavior usi
 - Identify trends in revenue, order volume, and customer retention  
 - Support strategic decision-making with clear, visual insights  
 
+## Dashboard Preview
+
+### General Overview
+![General Overview](images/general-overview.png)
+
+### Product Analysis
+![Product Analysis](images/product-analysis.png)
+
+### Customer Analysis
+![Customer Analysis](images/customer-analysis.png)
+
 ## Dashboard Highlights
 - Product sales and revenue performance  
 - Customer segmentation and purchase behavior  
