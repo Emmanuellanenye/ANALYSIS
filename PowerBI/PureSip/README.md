@@ -8,7 +8,10 @@ This Power BI dashboard analyzes PureSip performance to provide a clear view of 
 - Identify top products and categories driving revenue  
 - Understand customer segments and buying behavior  
 - Track regional/channel performance (where applicable)  
-- Support decisions for pricing, promotions, and stock planning  
+- Support decisions for pricing, promotions, and stock planning
+
+### PureSip
+![PureSip](Image/puresip-dashboard.png)
 
 ## Dashboard Highlights
 - KPI summary (Revenue, Orders, Customers, AOV/Profit — as applicable)
