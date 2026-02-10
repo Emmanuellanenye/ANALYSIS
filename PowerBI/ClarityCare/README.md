@@ -9,6 +9,12 @@ This Power BI dashboard presents a high-level view of ClarityCare service and su
 - Monitor response timeliness and case outcomes at a summary level
 - Highlight areas for process improvement and resource planning
 
+### ClarityCare First
+![ClarityCare First](Images/claritycare-first.png)
+
+### ClarityCare Second
+![ClarityCare Second](Images/claritycare-second.png)
+
 ## Dashboard Highlights
 - KPI summary and trend analysis
 - Breakdown views by key categories and time periods
