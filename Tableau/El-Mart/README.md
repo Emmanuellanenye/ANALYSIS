@@ -17,7 +17,8 @@ The goal of this project is to:
 - Evaluate transaction volume and customer purchasing patterns
 - Support data-driven retail decision-making
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Images/elmart-executive-view.png)
+![Dashboard Preview](Images/elmart-table-view.png)
 
 ---
 
@@ -31,12 +32,6 @@ The dashboard provides:
 - Regional and location-based sales analysis
 - Profitability comparison across segments
 - Interactive filters for dynamic exploration
-
-Users can filter by:
-- Date
-- Product / Category
-- Region
-- Other business dimensions
 
 ---
 
