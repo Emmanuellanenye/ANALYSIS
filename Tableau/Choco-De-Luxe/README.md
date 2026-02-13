@@ -6,8 +6,6 @@
 ## Project Overview
 Choco De Luxe is a premium chocolate retailer. This Tableau dashboard analyzes sales performance, profitability, delivery success, channel effectiveness, and organic product demand to help stakeholders understand what is driving revenue and where operational improvements are needed.
 
-![Choco De Luxe Dashboard](Images/choco-de-luxe.png)
-
 ## Objectives
 - Track revenue, cost, profit, and profit margin over time
 - Measure delivery completion performance (success rate)
@@ -15,6 +13,8 @@ Choco De Luxe is a premium chocolate retailer. This Tableau dashboard analyzes s
 - Evaluate which sales channels drive the most profitable transactions
 - Compare organic vs non-organic product demand
 - Assess salesperson productivity and product-level profitability`
+
+![Choco De Luxe Dashboard](Images/choco-de-luxe.png)
 
 ## Dashboard Pages / Views
 This project includes multiple analytical views such as:
