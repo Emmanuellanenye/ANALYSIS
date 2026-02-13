@@ -21,6 +21,9 @@ Built using Tableau, the dashboard transforms raw retail data into actionable in
 
 - Support strategic retail decisions using data-driven insights
 
+![Just Store Dashboard](Images/executive-view.png)
+![Just Store Dashboard](Images/table-view.png)
+
 
 ## 🔍 Analytical Focus Areas
 
